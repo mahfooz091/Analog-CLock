@@ -2,7 +2,7 @@
 
 A beautifully designed analog clock built with pure HTML, CSS, and JavaScript. Features a dark glassmorphism UI with color-coded clock hands that update every second in real time.
 
-![Calculator Preview](sample.png)
+![Clock Preview](sample.png)
 ---
 
 ## ✨ Features
@@ -104,4 +104,4 @@ Hour hand also moves slightly with minutes:
 ---
 
 B.Tech Computer Science | Parul University  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+• [LinkedIn](https://linkedin.com/in/mahfooz-alam-400930269/)
