@@ -49,8 +49,8 @@ No installation or build tools needed!
 
 ```bash
 # Optional: Clone via git
-git clone https://github.com/your-username/analog-clock.git
-cd analog-clock
+git clone https://github.com/mahfooz091/Analog-CLock.git
+cd Analog-CLock
 ```
 
 ---
